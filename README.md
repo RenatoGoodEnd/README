@@ -1,17 +1,12 @@
-# Nome do meu projeto
+#Renato Bonfim Alves
+>Breve biografia
 
-Rápida descrição do objetivo de fazer esse projeto
+Formado técnico em Automobilística, Engenharia Eletrônica e pós-graduado em Gestão de Pessoas.
+Conhecimento em metodologias Ágeis, estudando programação com o propósito de mudar de área.
 
-| :placard: Vitrine.Dev |     |
-| -------------  | --- |
-| :sparkles: Nome        | **Titulo do meu projeto**
-| :label: Tecnologias | java, html, ruby, c# (tecnologias utilizadas)
-| :rocket: URL         | https://url-deploy.com.br
-| :fire: Desafio     | https://url-do-desafio.com.br
+Trabalho com Gestão de Manutenção de transporte de passageiros, mas tenho a intenção de conquistar maior independência e entrar na área da tecnologi.
+Sinto que o trabalho atual está ficando muito ultrapassado e fora de um futuro tecnológivo.
 
-<!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://photos.app.goo.gl/8R46o5ExeiKKtDPbA)
-
-## Detalhes do projeto
-
-Textos e imagens que descrevam seu projeto, suas conquistas, seus desafios, próximos passos, etc...
+```
+Objetivo: DEV Full Stack
+```
